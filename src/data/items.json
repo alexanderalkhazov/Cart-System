@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Mac book",
+        "price": 1200,
+        "imgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HA244?wid=4000&hei=4000&fmt=jpeg&qlt=95&.v=1670455592623"
+    },
+    {
+        "id": 2,
+        "name": "Sony PS5",
+        "price": 900,
+        "imgUrl": "https://cdn.mos.cms.futurecdn.net/HkdMToxijoHfz4JwUgfh3G.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nintendo Switch",
+        "price": 790,
+        "imgUrl": "https://media.wired.com/photos/615cb6377aac0c0d8e7cfb3f/191:100/w_1280,c_limit/Gear-Nintendo-Switch-OLED.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Gaming PC",
+        "price": 2000,
+        "imgUrl": "https://m.media-amazon.com/images/I/71m-rpjxqSL.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Speaker",
+        "price": 400,
+        "imgUrl": "https://m.media-amazon.com/images/I/713TUYjagQL.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Programming Keyboard",
+        "price": 340,
+        "imgUrl": "https://assetsio.reedpopcdn.com/drop-ctrl.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp"
+    }
+]
