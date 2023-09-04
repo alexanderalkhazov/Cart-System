@@ -8,7 +8,7 @@ const Home = () => {
         <Col>
           <h1>Welcome to My React Cart System Application</h1>
           <p>This is a basic React application that manages cart state.</p>
-          <Link to={'https://github.com/alexanderalkhazov?tab=repositories'} target='blank'>
+          <Link to={'https://github.com/alexanderalkhazov/Cart-System'} target='blank'>
             <Button variant="primary">Source Code</Button>
           </Link>
         </Col>
